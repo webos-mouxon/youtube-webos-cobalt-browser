@@ -103,7 +103,7 @@ git clone https://github.com/webos-mouxon/youtube-webos-cobalt-browser.git
 
 - Enter the folder, download dependency and you can patch your YouTube ipk
 ```sh
-cd youtube-webos-cobalt
+cd youtube-webos-cobalt-browser
 
 git submodule update --init
 
@@ -131,9 +131,9 @@ This process is handled by the following commands:
 
 For example: for Cobalt 23.lts.4 and SB Api version 12:
 ```sh
-git clone https://github.com/webos-mouxon/youtube-webos-cobalt.git
+git clone https://github.com/webos-mouxon/youtube-webos-cobalt-browser.git
 
-cd youtube-webos-cobalt
+cd youtube-webos-cobalt-browser
 
 make cobalt-bin/23.lts.4-12/libcobalt.so cobalt-bin/23.lts.4-12.xz
 ```
