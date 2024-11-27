@@ -11,7 +11,7 @@ This project doesn't work with all LG TV. It is required that the Offical Youtub
 
 This application uses https://github.com/webos-mouxon/youtube-webos-cobalt-app to provide the `*.css` and `*.js` files to inject into Cobalt.
 
-![Configuration Screen](./screenshots/1_sm.jpg)
+![Configuration Screen](./screenshots/1_sm.png)
 ![Segment Skipped](./screenshots/2_sm.jpg)
 ![Speed Configuration](./screenshots/3_sm.jpg)
 
